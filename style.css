@@ -24,12 +24,12 @@ hr{
 	height:35px;
 }
 .sit{
-	background-color:white;
+border-radius:3px;
+	background-color:lightgray;
 	font-size:30px;
 display:inline-block;
-padding-left:20px;
-	color:black;
-padding-right:20px;
+padding-left:30px;
+padding-right:30px;
 }
 .sit:hover{
 background-color:white;
