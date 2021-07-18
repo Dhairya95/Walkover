@@ -39,6 +39,27 @@ color:black;
 border-radius:4px;
 box-shadow:5px 5px;
 }
+@media screen and (min-width:480px) and (max-width:800px){
+	.sit{
+			padding-left:10px;
+			padding-right:10px;
+				font-size:20px;
+			
+	}
+	.book{
+		/* flex-direction:column; */
+	
+	}
+	/* .centered{ */
+		/* font-size:100px; */
+	/* } */
+}
+@media screen and (min-width:400px) and (max-width:1000px){
+	.centered{
+		font-size:50px;
+	}
+	
+}
 a{
 	color:black;
 }
@@ -116,3 +137,7 @@ background-color:black;
 	box-shadow:2px 2px gray;
 	background-color:lightgray;
 }
+a{
+	text-decoration:none;
+}
+
